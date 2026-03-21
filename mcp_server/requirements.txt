@@ -1,0 +1,7 @@
+mcp
+aiohttp
+soundfile
+numpy
+scipy
+pyloudnorm
+pytest-asyncio

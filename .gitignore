@@ -1,0 +1,26 @@
+# Python
+mcp_server/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Exports (user-generated)
+exports/*.wav
+
+# Generated files
+plugin_registry.json
+mcp_server/.ableton_app_name
+
+# Archive folders
+Archive*/
+
+# Session docs (not distributed)
+SESSION_LOG.md
+ClaudeBridge_Specification.md
+ClaudeBridge_ClaudeCode_Prompt.md
+
+# Claude Code
+.claude/
