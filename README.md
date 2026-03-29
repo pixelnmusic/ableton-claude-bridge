@@ -6,6 +6,8 @@ Ableton-Claude-Bridge gives Claude Desktop full read/write access to any Ableton
 
 ## What Claude Can Do
 
+![Ableton-Claude-Bridge in action](ableton-claude-bridge.png)
+
 - **Read** every plugin parameter on every track (Native, AU, VST, VST3, Racks)
 - **Modify** any parameter — EQ, compression, gain, sends, and more
 - **Mixer control** — volume, pan, mute, solo, arm on any track
